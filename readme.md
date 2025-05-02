@@ -11,8 +11,8 @@
 
 ### Introduction to Linux for programmers
 
-What is Linux and why use it in programming?
-Recommended distributions: Ubuntu, Fedora, Debian, and others
+* What is Linux and why use it in programming?
+* Recommended distributions: Ubuntu, Fedora, Debian, and others
 
 ### Command line and basic management
 
